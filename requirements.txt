@@ -1,0 +1,4 @@
+flask
+transformers
+typing 
+json
