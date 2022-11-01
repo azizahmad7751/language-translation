@@ -1,2 +1,2 @@
 flask
-transformers==4.15.0
+transformers
